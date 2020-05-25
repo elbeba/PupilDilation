@@ -1,4 +1,4 @@
-# Vehware-Pupil Dilation Project
+# Pupil Dilation Project
 
 Project requires Python 3.7, opencv, math libraries and numpy.
 
